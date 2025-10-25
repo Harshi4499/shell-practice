@@ -1,7 +1,7 @@
 #!/bin/bash
 
 x=20
-y=30
+y=40
 echo "The value of x is: $x"
 echo "The value of y is: $y"
 sum=$((x + y))
