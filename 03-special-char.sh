@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ##### Special Vars #####
+#shell automatically created few variables and assigned values, useful for us while writing scripts
 echo "All variables passed to script: $@"
 echo "Number of variables passed: $#"
 echo "First variable: $1"
