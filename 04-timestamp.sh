@@ -14,7 +14,6 @@ TOTAL_TIME=$(($END_TIME-$START_TIME))
 echo "Script executed in $TOTAL_TIME seconds"
 #shell by default treats variable as string, so we need to use $(( )) to perform arithmetic operations
 
-
 NUM1=10
 NUM2=linux
 
